@@ -1,0 +1,16 @@
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\bin\Debug\net5.0\CodingExerciseRTS.exe
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\bin\Debug\net5.0\CodingExerciseRTS.deps.json
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\bin\Debug\net5.0\CodingExerciseRTS.runtimeconfig.json
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\bin\Debug\net5.0\CodingExerciseRTS.runtimeconfig.dev.json
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\bin\Debug\net5.0\CodingExerciseRTS.dll
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\bin\Debug\net5.0\ref\CodingExerciseRTS.dll
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\bin\Debug\net5.0\CodingExerciseRTS.pdb
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\CodingExerciseRTS.csproj.AssemblyReference.cache
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\CodingExerciseRTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\CodingExerciseRTS.AssemblyInfoInputs.cache
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\CodingExerciseRTS.AssemblyInfo.cs
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\CodingExerciseRTS.csproj.CoreCompileInputs.cache
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\CodingExerciseRTS.dll
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\ref\CodingExerciseRTS.dll
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\CodingExerciseRTS.pdb
+C:\Users\austin.vanraden\source\repos\CodingExerciseRTS\CodingExerciseRTS\obj\Debug\net5.0\CodingExerciseRTS.genruntimeconfig.cache
